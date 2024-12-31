@@ -188,9 +188,13 @@ Menu
 }
 .btn-container {
   margin-bottom: 4rem;
+<<<<<<< HEAD
   display: flex; 
   gap: 0.5rem;
   flex-wrap: wrap;
+=======
+  display: flex;
+>>>>>>> ad644bc45508dd3f4f57828889a0bc8e65f9f7ae
   justify-content: center;
 }
 .filter-btn {
@@ -255,6 +259,7 @@ Menu
     height: 175px;
   }
 }
+<<<<<<< HEAD
 
 @media screen and (min-width: 375px) {
   .menu {
@@ -264,6 +269,9 @@ Menu
   }
 }
   @media screen and (min-width: 1200px) {
+=======
+@media screen and (min-width: 1200px) {
+>>>>>>> ad644bc45508dd3f4f57828889a0bc8e65f9f7ae
   .section-center {
     width: 95vw;
     grid-template-columns: 1fr 1fr;
